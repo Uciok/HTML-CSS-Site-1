@@ -1,1 +1,1 @@
-# HTML-CSS-Site-1
+# Simple page using HTML and CSS. First project after a course.
